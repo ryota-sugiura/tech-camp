@@ -1,0 +1,43 @@
+header{
+  background-color: skyblue;
+  width: 1300px;
+  padding: 0px 30px;
+}
+
+.header-menu li{
+  list-style: none;
+}
+
+main{
+  background-color: pink;
+  width: 1300px;
+  padding: 10px 30px;
+}
+
+.container{
+  display: flex;
+  justify-content: flex-start;
+}
+
+.item2{
+  margin-left: 70px;
+}
+
+img{
+  height: 300px;
+  width: 450px;
+}
+
+.container p{
+  width: 600px;
+}
+
+footer{
+  background-color: skyblue;
+  width: 1300px;
+  padding: 0px 30px;
+}
+
+.footer-menu li{
+  list-style: none;
+}
